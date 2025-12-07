@@ -1,0 +1,7 @@
+Flask==3.0.0
+pywebview==5.0.0
+pdf2docx==0.5.6
+python-docx==1.1.0
+pywin32==306
+opencv-python-headless==4.8.0.76
+pymupdf==1.23.8
